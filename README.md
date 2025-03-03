@@ -40,8 +40,8 @@ Step 2: Clone the Script Repository
 
 Clone this repository to your Termux environment:
 ```
-git clone https://github.com/your_username/Apktool-Termux-Installer.git
-cd Apktool-Termux-Installer
+git clone https://github.com/elrashedy1995/Apktool-Termux.git
+cd Termux_Apktool
 ```
 Step 3: Run the Script
 
