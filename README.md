@@ -31,24 +31,25 @@ Follow the steps below to run the Apktool installation script on Termux:
 
 ### Step 1: Update Termux and Install Dependencies
 
-```bash
+
+```
 pkg update && pkg upgrade -y
 pkg install gradle root-repo x11-repo openjdk-17 wget git -y
-
+```
 Step 2: Clone the Script Repository
 
 Clone this repository to your Termux environment:
-
+```
 git clone https://github.com/your_username/Apktool-Termux-Installer.git
 cd Apktool-Termux-Installer
-
+```
 Step 3: Run the Script
 
 Make the script executable and run it:
-
+```
 chmod +x apktool_install.sh
 ./apktool_install.sh
-
+```
 The script will guide you through the installation process.
 
 
