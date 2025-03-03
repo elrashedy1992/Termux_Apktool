@@ -47,8 +47,8 @@ Step 3: Run the Script
 
 Make the script executable and run it:
 ```
-chmod +x apktool_install.sh
-./apktool_install.sh
+chmod +x apktool_termux.sh
+./apktool_termux.sh
 ```
 The script will guide you through the installation process.
 
@@ -82,6 +82,7 @@ We also recommend trying out APKnife, an even more advanced tool for reverse eng
 You can check it out and start using it for enhanced application security testing and penetration testing:
 
 APKnife - GitHub Repository
+https://github.com/elrashedy1992/APKnife
 
 
 ---
@@ -108,7 +109,7 @@ Contact
 For support or contributions, please feel free to open an issue or contact me directly.
 
 Author: mrnightmare
-Year: $(date +"%Y")
+Year: 2025
 
 
 ---
