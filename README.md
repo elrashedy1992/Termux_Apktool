@@ -40,15 +40,15 @@ Step 2: Clone the Script Repository
 
 Clone this repository to your Termux environment:
 ```
-git clone https://github.com/elrashedy1995/Apktool-Termux.git
+git clone https://github.com/elrashedy1992/Termux_Apktool
 cd Termux_Apktool
 ```
 Step 3: Run the Script
 
 Make the script executable and run it:
 ```
-chmod +x apktool_termux.sh
-./apktool_termux.sh
+chmod +x termux_apktool.sh
+./termux_apktool.sh
 ```
 The script will guide you through the installation process.
 
